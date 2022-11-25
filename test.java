@@ -42,7 +42,6 @@ public class test{
 
     //Pyramide inversé
     for (int i=4; i>0; i--) {
-
       // Ecartement par rapport a la marge
       for (int j=0; j<4-i; j++) {
         System.out.print(" ");
